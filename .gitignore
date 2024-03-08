@@ -1,0 +1,4 @@
+/data
+/src/data.py
+/result/gpt_odai/v*/checkpoint-*
+/result/gpt_odai/v*/runs
